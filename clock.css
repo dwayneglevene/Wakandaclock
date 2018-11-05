@@ -1,0 +1,22 @@
+body{background-image: url("wakanda.jpg");
+background-repeat: no-repeat;
+background-size: cover;}
+
+
+.clock{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	color: black;
+	font-size: 60px;
+	font-family: Orbitron;
+	letter-spacing: 7px;
+}
+
+h2{
+	color:black;
+	position: absolute;
+	top: 40%;
+	left: 45%;
+}
